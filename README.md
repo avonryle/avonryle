@@ -13,27 +13,27 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Avon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AvonZzZ&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <details>
-  <summary>❤️ About Me</summary>
+  <summary>About Me</summary>
   <p align="left">
        <h2>About Me</h2>
-       <ul><li><p> Im a 17yo coder that <i>usually</i> codes in JS..</p></li></ul>
+       <ul><li><p> Im a 17yo coder that <i>usually</i> codes in JS.</p></li></ul>
   </p>
 </details>
   
 <details>
-  <summary>🛠 Projects</summary>
+  <summary>Projects</summary>
   <p align="left">
        <h2>Projects</h2>
     <p><em>My current projects. I also have some other ones not listed here.</em></p>   
     <h3>Owned By Me</h3>
     <ul>
-    <li><a href="https://dsc.gg/pepeboy">Eve</a> - A fun RPG bot with many features to come.</li>
+    <li><a href="https://discord.com/oauth2/authorize?client_id=843091599247409182&scope=bot%20applications.commands&permissions=2147483647">Eve</a> - A fun RPG bot with many features to come.</li>
     </ul>
     </p>
 </details>
   
 <details>
-  <summary>📬 Contact</summary>
+  <summary>Contact</summary>
   <p align="left">
        <h2>Contact</h2>
    <p>My dms are open, but sending any misc/spam messages will get you blocked</p>
