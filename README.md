@@ -10,9 +10,20 @@
   <a href="https://discord.gg/3ZXwj2ht6X">
     <img alt="discord" title="Devtopia" src="https://img.shields.io/discord/866372720895459388.svg?label=Devtopia&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge"/><a/>
 </p>
-<br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Avon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvonZzZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br> 
+ <h1>
+   Status
+   </h1>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Avon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvonZzZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+  <h1>
+ Streak 
+  </h1>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="streak" alt="Avon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvonZzZ&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+  </a>
   <br/>
+  
 <details>
   <summary>About Me</summary>
   <p align="left">
