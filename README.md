@@ -17,16 +17,37 @@
   <summary>About Me</summary>
   <p align="left">
        <h2>About Me</h2>
-       <ul><li><p> Im a 17yo coder that <i>usually</i> codes in JS.</p></li></ul>
+       <ul>
+         <li>
+           <p>
+              Im a 17yo coder that <i>usually</i> codes in JS.
+             </p>
+         </li>
+           <p>
+             <li>
+              Im fairly new to github so have mercy on me~
+             </p>
+         </li>
+       </ul>
   </p>
 </details>
   
 <details>
-  <summary>Projects</summary>
+  <summary>
+    Projects
+  </summary>
   <p align="left">
-       <h2>Projects</h2>
-    <p><em>My current projects. I also have some other ones not listed here.</em></p>   
-    <h3>Owned By Me</h3>
+       <h2>
+         Projects
+  </h2>
+    <p>
+      <em>
+        My current projects. I also have some other ones not listed here.
+      </em>
+  </p>   
+    <h3>
+      Owned By Me
+  </h3>
     <ul>
     <li><a href="https://discord.com/oauth2/authorize?client_id=843091599247409182&scope=bot%20applications.commands&permissions=2147483647">Eve</a> - A fun RPG bot with many features to come.</li>
     </ul>
@@ -34,13 +55,33 @@
 </details>
   
 <details>
-  <summary>Contact</summary>
+  <summary>
+    Contact
+  </summary>
+  
   <p align="left">
-       <h2>Contact</h2>
-   <p>My dms are open, but sending any misc/spam messages will get you blocked</p>
+       <h2>
+         Contact
+       </h2>
+   <p>
+    Contact me thru discord or email 
+   </p>
    <ul>
-     <li>Tag: <code>avon#0001</code></li>
-     <li>ID: <code>780522171226390638</code></li>
+     <li>
+       Discord Tag: <code>avon#0001</code>
+     </li>
+     <li>
+       Discord ID: <code>780522171226390638</code>
+     </li>
+     <li>
+       Email: <code>avon.dum@gmail.com</code>
+     </li>
+     <br>
+     <li>
+       Note(s): 
+       <br> - I might not respond through email so its recommended to contact me through discord.
+       <br> - If you send spam messages in my discord, i will block you.
+       </li>
    </ul>
    </p>
 </details>
