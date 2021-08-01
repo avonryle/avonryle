@@ -16,7 +16,7 @@
   <summary>❤️ About Me</summary>
   <p align="left">
        <h2>About Me</h2>
-       <ul><li><p> Im a 17yo coder that <i>usually</i> codes in JS..</p><\li></ul>
+       <ul><li><p> Im a 17yo coder that <i>usually</i> codes in JS..</p></li></ul>
   </p>
 </details>
   
