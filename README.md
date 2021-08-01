@@ -23,7 +23,9 @@
     <img title="streak" alt="Avon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvonZzZ&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
   <br/>
-  
+  <h1>
+  Others 
+  </h1>
 <details>
   <summary>About Me</summary>
   <p align="left">
