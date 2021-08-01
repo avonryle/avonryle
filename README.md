@@ -7,8 +7,10 @@
 <p align="center">
   <a href="https://github.com/AvonZzZ">
     <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/AvonZzZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
+  <a href="https://discord.gg/3ZXwj2ht6X">
+    <img alt="discord" title="Devtopia" src="https://img.shields.io/discord/738381353921544282.svg?label=Devtopia&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge"/><a/>
 </p>
-  <br>
+<br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Avon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvonZzZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <details>
