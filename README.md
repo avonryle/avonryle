@@ -25,7 +25,12 @@
   
 <h1> Trophies </h1>
 <img alt="Trophies" src='https://github-profile-trophy.vercel.app/?username=AvonZzZ'/>
-<br>
+
+<h1>Projects</h1>
+<em>Some of my projects are listed below</em>
+  <h3>Owned by me</h3>
+ <p><a href='https://github.com/AvonZzZ/ayane'>Yuuki</a> — an anime bot with many features to come.</p> 
+  
 <h2>About Me</h2>
   <p><li>Hallo there, I'm avon - a fairly new developer who is currently learning <code>javascript</code> and <code>C#</code></li>
 <li>I am currently in 2 organisations called BDFD-Staff (Bot Designer For Discord Official Server) and Yogan.club (An upcoming chat app)</p>
@@ -51,4 +56,4 @@
        </li>
    </ul>
    </p>
-</details>
+
