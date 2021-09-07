@@ -17,9 +17,10 @@
   ・ I am in 2 other organisations called <a href="https://github.com/BDFD-Staff"><b>BDFD Staff</b></a> and <a href="https://github.com/yogan.club"><b>Yogan.club</b></a>
 </p>
  <h2> Github Stats </h2>
-  <img alt="Avon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvonZzZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=omni" />
  <h2> Graph </h2>
- <a href="https://activity-graph.herokuapp.com/graph?username=AvonZzZ&theme=dracula" alt="avon's graph" /></a> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=AvonZzZ&theme=cotton-candy" alt="avon's graph" /></a> 
  
  <details><summary> Projects </summary>
-  <p><a href="https://github.com/Staria-Developers/yuuki"><b>Rin</b></a> -- a bot made with aoi.js  </p>
+  <p><a href="https://github.com/Staria-Developers/yuuki"><b>Rin</b></a> -- a broken bot made with aoi.js  </p>
+  </details>
