@@ -13,7 +13,7 @@
 <br> 
  <h2> About </h2>
  <p>
-  ・ Hello there, my name is avon a newbie javascript developer that likes to steal cookies from other ;3 <br>・ I am the owner of <a href="https://github.com/Staria-Developers"><b>Staria Developers</b></a> 
+  ・ Hello there, my name is avon a newbie javascript developer that likes to steal cookies from other ;3 <br>・ I am the owner of <a href="https://github.com/Staria-Developers"><b>Staria Developers</b></a><br> 
   ・ I am in 2 other organisations called <a href="https://github.com/BDFD-Staff"><b>BDFD Staff</b></a> and <a href="https://github.com/yogan.club"><b>Yogan.club</b></a>
 </p>
  <h2> Github Stats </h2>
