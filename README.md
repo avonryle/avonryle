@@ -17,9 +17,9 @@
   ・ I am in 2 other organisations called <a href="https://github.com/BDFD-Staff"><b>BDFD Staff</b></a> and <a href="https://github.com/yogan.club"><b>Yogan.club</b></a>
 </p>
  <h2>・ Github Stats </h2>
-  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvonZzZ&show_icons=true&theme=omni" />
+  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kiu-breakscookies&show_icons=true&theme=omni" />
  <h2>・ Graph </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=AvonZzZ&theme=cotton-candy" alt="avon's graph" /></a> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=kiu-breakscookies&theme=cotton-candy" alt="avon's graph" /></a> 
  
  <h2>・ Projects</h2>
    <h5>・ Owned By Me </h5>
