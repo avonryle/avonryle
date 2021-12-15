@@ -1,5 +1,5 @@
 <h1 align='center'>
-Ilvan
+SleepyKaz
   </h1>
     <p align="center">
   <a href="https://github.com/ilvanx">
@@ -8,13 +8,12 @@ Ilvan
 <br> 
  <h2>・ About </h2>
  <p>
-  ・ Hello there, my name is ilvan and I am a javascript developer<br> 
-  ・ I am in 2 organisations called <a href="https://github.com/BDFD-Staff"><b>BDFD Staff</b></a> and an up-and-coming organisation which name is not yet decided.
+  ・ Hello there, my name is kaz and I code stuff as a hobby.  
 </p>
  <h2>・ Github Stats </h2>
-  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilvanx&show_icons=true&theme=omni" />
+  <img alt="kaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sleepykaz&show_icons=true&theme=omni" />
  <h2>・ Graph </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=ilvanx&theme=cotton-candy" alt="ilvan's graph" /></a> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=sleepykaz&theme=omni" alt="kaz's graph" /></a> 
  
  <h2>・ Projects</h2>
    <h5>・ Owned By Me </h5>
