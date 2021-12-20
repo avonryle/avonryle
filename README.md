@@ -2,7 +2,7 @@
 SleepyKaz
   </h1>
     <p align="center">
-  <a href="https://github.com/ilvanx">
+  <a href="https://github.com/sleepykaz">
     <img alt="followers" title="Follow Me"src="https://img.shields.io/github/followers/sleepykaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me%20at%20github!"/></a>
 </p>
 <br> 
