@@ -1,21 +1,25 @@
 <h1 align='center'>
-avon
+  AvonRyle
   </h1>
     <p align="center">
-  <a href="https://github.com/avndoestuff">
-    <img alt="followers" title="Follow Me"src="https://img.shields.io/github/followers/avondoestuff?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me%20at%20github!"/></a>
+  <a href="https://github.com/avonryle">
+    <img alt="followers" title="Follow Me"src="https://img.shields.io/github/followers/avonryle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me%20at%20github!"/></a>
 </p>
 <br> 
- <h2>・ About </h2>
+ <h2> About Me </h2>
  <p>
-  ・ Hello there, my name is avon and I code stuff as a hobby.  
+  Hello there, I go by avon or avonryle in the Internet and I am a 17 year old web developer that's slowly learning backend programming.  
 </p>
- <h2>・ Github Stats </h2>
-  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avondoestuff&show_icons=true&theme=aura" />
- <h2>・ Graph </h2>
- <img src="https://activity-graph.herokuapp.com/graph?username=avondoestuff&theme=react-dark" alt="avon's graph" /></a> 
+<h1>
+  Discord
+  </h1>
+  <img src="https://discord.c99.nl/widget/theme-2/780522171226390638.png" alt="widget">
+ <h2> Github Stats </h2>
+  <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avonryle&show_icons=true&theme=aura" /> 
  
- <h2>・ Projects</h2>
-   <h5>・ Owned By Me </h5>
-  <p>will be released soon!</p>
- 
+ <h2> Projects</h2>
+ <h5> Owned By Me </h5>
+ <p>
+  <a href="https://github.com/avonryle/callisto">Callisto</a>
+   <br>  — an optimized and open source <a href="https://npmjs.com/better-sqlite3">better-sqlite3</a> wrapper built for beginners and intermediate developers to use in their projects.
+</p>
