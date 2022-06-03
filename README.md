@@ -16,10 +16,3 @@
   <img src="https://discord.c99.nl/widget/theme-2/780522171226390638.png" alt="widget">
  <h2> Github Stats </h2>
   <img alt="Avon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avonryle&show_icons=true&theme=aura" /> 
- 
- <h2> Projects</h2>
- <h5> Owned By Me </h5>
- <p>
-  <a href="https://github.com/avonryle/callisto">Callisto</a>
-   <br>  — an optimized and open source <a href="https://npmjs.com/better-sqlite3">better-sqlite3</a> wrapper built for beginners and intermediate developers to use in their projects.
-</p>
