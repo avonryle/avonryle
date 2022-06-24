@@ -8,7 +8,7 @@
 <br> 
  <h2> About Me </h2>
  <p>
-  Hello there, I go by avon or avonryle in the Internet and I am a 17 year old web developer that's slowly learning backend programming.  
+  Hello there, I go by avon or avonryle in the Internet and I am a 17 year old junior fullstack web developer that's learning backend programming and creating games.  
 </p>
 <h1>
   Discord
