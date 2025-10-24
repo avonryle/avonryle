@@ -1,2 +1,43 @@
-<h1 align="center">avonryle</h1><p align="center"><a href="https://github.com/avonryle"><img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/avonryle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow+me+here+on+Github!"></a></p><br><h1>who?</h1><p>I am a full stack dev who only codes as a hobby. My career is not one that would relate to coding but im a mega nerd so here we are.
-My previous projects were ByteDatabase and several other websites which are no longer hosted. </p><h3>Contact me using:</h3><code>Discord: avonryle</code><br>
+<div align="center">
+
+# Hey, I'm Avonrylew
+
+### I turn caffeine into code and ideas into reality.
+
+```ascii
+  ╔════════════════════════════════════════╗
+  ║  Developer | Reverse Engineer | Coder  ║
+  ╚════════════════════════════════════════╝
+```
+
+</div>
+
+## What I'm About
+
+I'm a full-stack developer who loves building things that make a difference. 
+
+My playground is speed. I aim for the fastest of everything that exists.
+
+When I'm not coding, you'll probably find me learning a new framework or optimizing something that's "already fast enough" (spoiler: it's never fast enough). or otherwise you'll find me losing my sanity in valorant.
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avonrylew&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avonrylew&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+## Currently
+
+- Building my [EventEmitter](https://github.com/avonrylew/events) which is super feature stacked and optimized for bun runtime btw (150M ops/sec emit hello im goated).
+- Created [FastMap](https://github.com/avonrylew/fastmap) which aims to implement to be more feature stacked for the daily developer while being a drop in replacement for NodeJS native map while keeping speed its first priority.
+
+
+## 📬 Let's Connect!
+
+<div align="center">
+add me on discord <code>avonrylew</code>
+</div>
