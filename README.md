@@ -5,9 +5,9 @@
 ### I turn caffeine into code and ideas into reality.
 
 ```ascii
-  ╔════════════════════════════════════════╗
-  ║  Developer | Reverse Engineer | Coder  ║
-  ╚════════════════════════════════════════╝
+  ╔════════════════════════════╗
+  ║  Developer | Reverse Engineer  ║
+  ╚════════════════════════════╝
 ```
 </div>
 
@@ -32,11 +32,11 @@ When I'm not coding, you'll probably find me learning a new framework or optimiz
 ## Currently
 
 - Building my [EventEmitter](https://github.com/avonrylew/events) which is super feature stacked and optimized for bun runtime btw (150M ops/sec emit hello im goated).
-- Created [FastMap](https://github.com/avonrylew/fastmap) which aims to implement to be more feature stacked for the daily developer while being a drop in replacement for NodeJS native map while keeping speed its first priority.
+- Building [FastMap](https://github.com/avonrylew/fastmap) which aims to be more feature stacked than <code>Map()</code> for the daily developer while keeping speed its first priority.
 
 
 ## 📬 Let's Connect!
 
 <div align="center">
-add me on discord <code>avonrylew</code>
+add me on discord @ <code>avonrylew</code>
 </div>
