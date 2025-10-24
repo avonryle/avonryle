@@ -9,7 +9,6 @@
   ║  Developer | Reverse Engineer | Coder  ║
   ╚════════════════════════════════════════╝
 ```
-
 </div>
 
 ## What I'm About
